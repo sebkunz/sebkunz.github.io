@@ -1,0 +1,24 @@
+# Basic information for Homepage
+name: Sebastian Kunz
+short_description: Software Developer and car enthusiast
+picture: assets/images/profile_picture.png
+favicon: assets/images/favicon.png
+
+
+#Config
+title: Sebastian Kunz
+tagline: Software Developer
+description: Homepage of Sebastian Kunz - Software Developer
+logo: assets/images/profile_picture.png
+lang: en_US
+url: "https://sebkunz.github.io"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
