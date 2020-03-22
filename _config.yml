@@ -11,7 +11,7 @@ tagline: Software Developer
 description: Homepage of Sebastian Kunz - Software Developer
 logo: assets/images/profile_picture.png
 lang: en_US
-url: "https://sebkunz.github.io"
+url: https://sebkunz.github.io
 
 defaults:
   - scope:
