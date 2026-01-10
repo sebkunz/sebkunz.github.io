@@ -1,14 +1,14 @@
 # Basic information for Homepage
 name: Sebastian Kunz
-short_description: Software Developer and car enthusiast
+short_description: Senior Software Engineer and car enthusiast
 picture: assets/images/profile_picture.png
 favicon: assets/images/favicon.png
 
 
 #Config
 title: Sebastian Kunz
-tagline: Software Developer
-description: Homepage of Sebastian Kunz - Software Developer
+tagline: Senior Software Engineer
+description: Homepage of Sebastian Kunz - Senior Software Engineer
 logo: assets/images/profile_picture.png
 lang: en_US
 url: https://sebkunz.github.io
